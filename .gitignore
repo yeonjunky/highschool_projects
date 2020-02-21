@@ -3,3 +3,10 @@
 /Scripts
 /pyvenv.cfg
 /sadf.py
+*.vcxproj
+*.user
+*.filters
+*.sln
+/data_structure/.vs/data_structure/v16/ipch/AutoPCH
+/data_structure/.vs/data_structure/v16
+/.vs
